@@ -1,6 +1,8 @@
 src/synthesis/modules/ssd.v
 src/synthesis/modules/bcd.v
 
+src/synthesis/modules/red.v
+src/synthesis/modules/deb.v
 
 src/synthesis/modules/clk_div.v
 

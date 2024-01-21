@@ -1,5 +1,5 @@
 module register (
-    clk, rst_n, cl, ld, in, inc, dec, sr, ir, sl, il, out
+    clk, rst_n, cl, ld, inc, dec, sr, ir, sl, il, in, out
 );
     input clk, rst_n, cl, ld, inc, dec, sr, ir, sl, il;
     input [3:0] in;
